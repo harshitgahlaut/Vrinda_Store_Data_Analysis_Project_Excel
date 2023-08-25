@@ -42,10 +42,12 @@ Below is a snippet of the final dashboard in Excel.
 
 ## Insights
 Key insights from the analysis:
+- Orders and Sales are highest on February and March.
 - Women accounted for around 65% of purchases, suggesting a strong female customer base.
 - The top three states for sales were Maharashtra, Karnataka, and Uttar Pradesh, making up about 35% of total sales.
 - The age group of 30-49 years contributed the most to sales, accounting for approximately 50% of orders.
 - Amazon, Flipkart, and Myntra were the most significant sales channels, contributing to about 80% of total sales.
+- Most of the orders have delivered status (92%).
 
 ## Recommendations based on the Analysis
 To boost sales in the future:
