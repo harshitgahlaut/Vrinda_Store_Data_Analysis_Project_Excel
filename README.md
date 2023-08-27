@@ -5,6 +5,9 @@ The goal of this project is to create a dashboard of annual sales data for a  fi
 
 **__Disclaimer__** : _All datasets and reports do not represent any institution comapny or country and is just a dummy dataset to demonstrate Excel capabilities._
 
+## Tech Stack Used 
+![Excel](https://img.icons8.com/color/256/microsoft-excel-2019.png)
+
 ## Skills showcased in this Project
 - Data Cleaning, Data Transformation, Data Analysis
 - Filtering, Sorting and Conditional function.
